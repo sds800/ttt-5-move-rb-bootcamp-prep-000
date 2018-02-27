@@ -8,8 +8,9 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(user_input)
-  puts 'user_input'.to_i - 1
+def input_to_index(4)
+  
+  puts '4'.to_i - 1
 end
 
 
