@@ -10,7 +10,7 @@ end
 
 def input_to_index(input)
 
-  puts "input - 1".to_i
+  puts "#{input} - 1".to_i
 end
 
 
