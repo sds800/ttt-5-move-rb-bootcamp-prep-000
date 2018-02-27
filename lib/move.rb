@@ -14,5 +14,5 @@ converted_input = input.to_i - 1
 end
 
 
-def move(a, b, c)
+def move(a, b, c = X)
 end
