@@ -14,5 +14,6 @@ converted_input = input.to_i - 1
 end
 
 
-def move(a, b, c = X)
+def move(board_array, index, player = X)
+
 end
