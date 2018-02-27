@@ -14,6 +14,6 @@ converted_input = input.to_i - 1
 end
 
 
-def move(board, converted_input, value = X)
+def move(board, converted_input, value = "X")
   board[converted_input] = value
 end
